@@ -5,21 +5,17 @@
 		"updateURL": "",
 		"description": "",
 		"isRequired": false,
-		"alpha": [
-			{
-				"isEnabled": false,
-				"version": "1.0.0",
-				"updateURL": "",
-				"description": ""
-			}
-		],
-		"beta": [
-			{
-				"isEnabled": false,
-				"version": "1.0.0",
-				"updateURL": "",
-				"description": ""
-			}
-		]
+		"alpha": {
+			"isEnabled": false,
+			"version": "1.0.0",
+			"updateURL": "",
+			"description": ""
+		},
+		"beta": {
+			"isEnabled": false,
+			"version": "1.0.0",
+			"updateURL": "",
+			"description": ""
+		}
 	}
 ]
