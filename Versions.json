@@ -2,6 +2,24 @@
 	{
 		"name": "Concept",
 		"version": "1.0.0",
-		"ifUpdateIsRequired": false
+		"updateURL": "",
+		"description": "",
+		"isRequired": false,
+		"alpha": [
+			{
+				"isEnabled": false,
+				"version": "1.0.0",
+				"updateURL": "",
+				"description": ""
+			}
+		],
+		"beta": [
+			{
+				"isEnabled": false,
+				"version": "1.0.0",
+				"updateURL": "",
+				"description": ""
+			}
+		]
 	}
 ]
