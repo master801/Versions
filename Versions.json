@@ -3,7 +3,7 @@
 		"name": "Concept",
 		"version": "1.0.0",
 		"isRequired": false,
-		"updateURL": "",
+		"updateUrl": "",
 		"changelog": "",
 		"alpha": {},
 		"beta": {}
