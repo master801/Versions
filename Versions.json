@@ -7,5 +7,14 @@
 		"changelog": "",
 		"alpha": {},
 		"beta": {}
+	},
+	{
+		"name": "Kiss-Script",
+		"version": "1.0.3",
+		"isRequired": false,
+		"updateUrl": "",
+		"changelog": "",
+		"alpha": {},
+		"beta": {}
 	}
 ]
